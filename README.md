@@ -1,3 +1,5 @@
+# facebook-clone-react-firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Used Technology
@@ -10,4 +12,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - **Firebase Hosting**
 - **Firebase Google Authentication (Full Login)**
 - **React Flip move**
-# facebook-clone-react-firebase
