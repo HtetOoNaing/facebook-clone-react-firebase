@@ -12,3 +12,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - **Firebase Hosting**
 - **Firebase Google Authentication (Full Login)**
 - **React Flip move**
+
+## Resource
+https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ
